@@ -25,7 +25,7 @@ A little note about the filament length: I would substract ~20mm from the measur
 
 The design is based on the [Universial Filament Spool Mount from PurchenZuPoden](https://www.printables.com/de/model/65651-universal-filament-spool-holder). Just download and print the mount from there (the nut and one of the mounts - the short mount works for regular sizes spools)
 
-The `_Optional folder` contains some optional parts, you can use if you want. You can print some of the M8 screws, I use a printed M8x16mm screw for the counterweight axis which works very well. You can also print the nut-weight screw, but then you loose the weight of the screw. The ECAS holder is to properly route your PTFE Tubes - make sure that you have a proper PTFE routing! Everything should be nice and smooth and secure.
+The `_Optional folder` contains some optional parts, you can use if you want. You can print some of the M8 screws, I use a printed M8x16mm screw for the counterweight axis which works very well. You can also print the nut-weight screw, but then you loose the weight of the screw. The ECAS holder is to properly route your PTFE Tubes - make sure that you have a proper PTFE routing! Everything should be nice and smooth and secure. The Files for the nut and screws are made with the [Nut Job Files](https://www.printables.com/de/model/94761-nut-job-nut-bolt-washer-and-threaded-rod-factory).
 
 ## How can I use it for my printer?
 
