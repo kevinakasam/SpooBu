@@ -15,7 +15,7 @@ When the printer unloads the filament, the tension on the spool gets released, a
 
 I did record a quick demonstration video of SpooBu (this is just a testing setup and very messy): https://youtu.be/ba3n2fLI1wE
 
-[![Demo VID](https://img.youtube.com/vi/v=ba3n2fLI1wE/0.jpg)](https://youtu.be/ba3n2fLI1wE)
+[![Demo VID](https://img.youtube.com/vi/ba3n2fLI1wE/0.jpg)](https://youtu.be/ba3n2fLI1wE)
 
 ## What to print?
 
@@ -35,7 +35,7 @@ You need the [Helical Gear + Plugin](https://apps.autodesk.com/FUSION/de/Detail/
 
 I did record a short CAD tutorial how to adapt the Design: https://youtu.be/17P4wHjeBd8
 
-[![CAD Tutorial](https://img.youtube.com/vi/v=17P4wHjeBd8/0.jpg)](https://youtu.be/17P4wHjeBd8)
+[![CAD Tutorial](https://img.youtube.com/vi/17P4wHjeBd8/0.jpg)](https://youtu.be/17P4wHjeBd8)
 
 
 ## Credits
