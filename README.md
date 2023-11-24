@@ -37,6 +37,10 @@ I did record a short CAD tutorial how to adapt the Design: https://youtu.be/17P4
 
 [![CAD Tutorial](https://img.youtube.com/vi/17P4wHjeBd8/0.jpg)](https://youtu.be/17P4wHjeBd8)
 
+## BOM
+
+Totally forgot the BOM^^ will add that later, but you need 3 608 bearings, three M8 screws with hex head (M8x16mm and a long M8 for the spool mount (I use a M8x140mm) and another screw for the couterweight) and quite some M8 nuts)
+
 
 ## Credits
 
